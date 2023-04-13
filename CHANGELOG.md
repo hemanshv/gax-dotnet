@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.4.0](https://github.com/googleapis/gax-dotnet/compare/Google.Api.Gax-4.3.1...Google.Api.Gax-4.4.0) (2023-04-13)
+
+
+### Features
+
+* Regenerate common API protos ([b8e4cab](https://github.com/googleapis/gax-dotnet/commit/b8e4cab2caf8e14ec382f262952d262415aadde7))
+* Regenerate common protos ([bc26cea](https://github.com/googleapis/gax-dotnet/commit/bc26ceae00492b9e4f136983bebae0608d57a92d))
+
 ## [4.3.1](https://github.com/googleapis/gax-dotnet/compare/Google.Api.Gax-4.3.0...Google.Api.Gax-4.3.1) (2023-01-30)
 
 
